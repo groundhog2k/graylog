@@ -6,7 +6,7 @@ Check out the repro from [Github](https://github.com/groundhog2k/graylog) and st
 
 ---
 
-###Default configuration:
+### Default configuration:
 
 - Graylog web uri:   http://localhost:9000
 - Graylog user/pass: admin/admin
